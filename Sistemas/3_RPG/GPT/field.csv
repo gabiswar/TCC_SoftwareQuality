@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,atacar/1[Personagem],forca,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,atacar/1[Personagem],nome,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,defender/0,nome,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,defender/0,defesa,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,"Personagem/5[java.lang.String,int,int,int,int]",inteligencia,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,"Personagem/5[java.lang.String,int,int,int,int]",forca,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,"Personagem/5[java.lang.String,int,int,int,int]",hp,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,"Personagem/5[java.lang.String,int,int,int,int]",nome,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,"Personagem/5[java.lang.String,int,int,int,int]",defesa,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,estaVivo/0,hp,1

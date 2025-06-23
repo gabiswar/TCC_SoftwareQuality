@@ -1,0 +1,24 @@
+metricas_coesao = ["lcom","tcc","lcc"]
+dados_coesao = [[60,0,40],[25,75,0],[0,0,100]]
+
+metricas_acoplamento = ["cbo","fanin","fanout","rfc"]
+dados_acoplamento = [[100,0,0],[60,40,0],[100,0,0],[60,40,0]]
+
+metricas_tamanho1 = ["wmc","loc","totalMethodsQty","staticMethodsQty","publicMethodsQty","abstractMethodsQty","finalMethodsQty","synchronizedMethodsQty"]
+dados_tamanho1 = [[20,80,0],[60,40,0],[40,60,0],[100,0,0],[20,80,0],[100,0,0],[100,0,0],[100,0,0]]
+
+metricas_tamanho2 = ["totalFieldsQty","publicFieldsQty","finalFieldsQty","staticFieldsQty","synchronizedFieldsQty","anonymousClassesQty","innerClassesQty"]
+dados_tamanho2 = [[40,60,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0]]
+
+metricas_tamanho3 = ["numbersQty","assignmentsQty","stringLiteralsQty","variablesQty","lambdasQty","uniqueWordsQty","logStatementsQty","modifiers"]
+dados_tamanho3 = [[60,40,0],[40,60,0],[60,20,20],[60,40,0],[80,20,0],[100,0,0],[100,0,0],[100,0,0]]
+
+metricas_tamanho4 = ["returnQty","loopQty","comparisonsQty","tryCatchQty","parenthesizedExpsQty","mathOperationsQty","maxNestedBlocksQty"]
+dados_tamanho4 = [[40,60,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[80,20,0]]
+
+metricas_ocultacao = ["privateMethodsQty","protectedMethodsQty","defaultMethodsQty","privateFieldsQty","protectedFieldsQty","defaultFieldsQty"]
+dados_ocultacao = [[100,0,0],[100,0,0],[100,0,0],[20,80,0],[100,0,0],[100,0,0]]
+
+metricas_heranca = ["dit","noc","nosi"]
+dados_heranca = [[100,0,0],[100,0,0],[80,20,0]]
+

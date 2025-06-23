@@ -1,0 +1,11 @@
+file,class,method,constructor,line,cbo,cboModified,fanin,fanout,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Guerreiro,Guerreiro/1[java.lang.String],true,39,0,1,1,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Guerreiro,habilidadeEspecial/1[Personagem],false,44,1,0,0,0,2,1,6,0,1,1,1,0,0,0,0,0,1,3,3,3,3,1,0,0,0,11,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Mago,Mago/1[java.lang.String],true,53,0,1,1,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Mago,habilidadeEspecial/1[Personagem],false,58,1,0,0,0,2,1,8,0,1,1,1,0,0,0,0,0,1,4,4,4,4,1,0,0,0,13,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,habilidadeEspecial/1[Personagem],false,35,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1025,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,atacar/1[Personagem],false,23,1,1,1,0,2,1,6,0,1,1,1,0,0,0,0,0,0,3,2,3,2,1,0,0,0,7,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,defender/0,false,30,0,1,1,0,1,1,4,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,4,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,"Personagem/5[java.lang.String,int,int,int,int]",true,11,0,0,0,0,1,0,7,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,6,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,Personagem,estaVivo/0,false,19,0,1,1,0,2,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\GPT\code\RPGTurnos.java,RPGTurnos,main/1[java.lang.String[]],false,69,3,6,0,6,13,8,60,0,7,1,8,0,0,1,1,0,1,20,9,8,3,2,0,0,0,32,9,0,false

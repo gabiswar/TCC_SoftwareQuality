@@ -1,0 +1,15 @@
+No momento em que vou devolver um livro, sempre dá erro e o código para de funcionar
+
+Segundo o gpt:
+
+📌 Como funciona:
+Roda no terminal.
+
+Cadastra livros e usuários (impede duplicata por CPF).
+
+Realiza empréstimos de livros disponíveis.
+
+Calcula multa de R$ 2,00/dia para devoluções após 7 dias.
+
+Permite listar registros a qualquer momento.
+

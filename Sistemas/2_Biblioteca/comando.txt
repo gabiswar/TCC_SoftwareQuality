@@ -1,0 +1,7 @@
+Faça um sistema de gerenciamento de biblioteca completo em java. Em que seja possível:
+    - Cadastrar um livro;
+    - Deletar um livro;
+    - Cadastro de usuários, validando se ele já existe;
+    - Realizar empréstimo;
+    - Finalizar um empréstimo;
+    - Calculo de multa por devolução atrasada de um livro;

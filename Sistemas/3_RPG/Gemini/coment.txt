@@ -1,0 +1,12 @@
+Gerou um código errado; o que impossibilitava a compilação.
+	- Na classe do Guerreiro faltou o uso de um + dentro de um System.out, eu corrigi isso e ai tiverem erros de import, depois de corrigir tudo ai o Jogo funcionou corretamente.
+
+Ponto positivo foi pedido que fosse gerado 4 arquivos, 
+
+IA MANDOU ISSO AQUI:
+
+Como executar o jogo:
+
+Salve os códigos acima em quatro arquivos .java: Personagem.java, Guerreiro.java, Mago.java e Jogo.java.
+Compile os arquivos no terminal usando o comando: javac *.java
+Execute o jogo com o comando: java Jogo

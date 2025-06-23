@@ -1,0 +1,13 @@
+file,class,method,constructor,line,cbo,cboModified,fanin,fanout,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Warrior,Warrior/0,true,39,0,1,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,1,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Warrior,specialAbility/1[Character],false,44,1,1,0,1,1,2,5,0,1,1,2,0,0,0,0,0,0,2,1,1,2,0,0,0,0,13,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,TurnBasedRPG,main/1[java.lang.String[]],false,70,3,3,0,3,12,6,56,0,6,1,6,0,0,1,1,0,1,12,13,10,8,2,0,0,0,23,9,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Character,takeDamage/1[int],false,19,0,3,3,0,2,1,4,0,0,1,1,0,0,0,0,0,0,0,3,2,1,1,0,0,0,5,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Character,specialAbility/1[Character],false,24,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1025,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Character,"Character/5[java.lang.String,int,int,int,int]",true,7,0,0,0,0,1,0,7,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,6,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Character,defend/0,false,26,0,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,10,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Character,isAlive/0,false,15,0,1,1,0,2,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Character,attack/1[Character],false,31,1,1,0,1,1,2,5,0,1,1,2,1,1,0,0,0,0,3,0,1,1,0,0,0,0,10,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Mage,specialAbility/1[Character],false,57,1,1,0,1,1,2,4,0,0,1,2,0,0,0,0,0,0,2,2,0,4,0,0,0,0,12,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Mage,defend/0,false,63,0,0,0,0,1,1,4,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,10,1,0,false
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\3_RPG\Copilot\code\TurnBasedRPG.java,Mage,Mage/0,true,52,0,1,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,1,1,0,false

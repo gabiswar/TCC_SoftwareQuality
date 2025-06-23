@@ -1,0 +1,8 @@
+Faça um jogo de RPG Turn-Based (baseado em turnos) em Java.
+
+- Deve existir 2 personagens em que o jogador possa escolher qual ele quer ser, o Guerreiro e o Mago;
+- Cada personagem deve ter atributos específicos, como pontos de vida (HP), força, inteligência e defesa;
+- Guerreiro: Deve ter habilidades como causa mais dano e de defesa que reduz o dano recebido;
+- Mago: Deve ter habilidades como causar dano mágico e aumentar temporariamente a defesa;
+- Devem ter ações de Atacar, Usar Habilidade Especial e Defender;
+- Jogo acaba quando o HP de um personagem chegar a zero;

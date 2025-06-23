@@ -1,0 +1,3 @@
+Gerou um código incompleto
+
+Gerou vários pequenos códigos, e eu fui criando as classes separadas.

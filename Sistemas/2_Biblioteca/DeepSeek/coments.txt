@@ -1,0 +1,2 @@
+bem mais completo o cadastro de livros (em comparação ao chatgpt)
+Mais validações no empréstimo de livros
