@@ -1,0 +1,17 @@
+Gerou um código utilizando a biblioteca maven e o arquivo de configuração para instalar o projeto estava errado e impossibilitou a execução do programa.
+
+The project com.projectmanager:project-manager:1.0-SNAPSHOT (C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\6_GerenciadorProjetos\Copilot\code\project-manager\pom.xml) has 4 erros
+
+ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-web:jar is missing. @ line 20, column 21
+[ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-data-jpa:jar is missing. @ line 24, column 21
+[ERROR]     'dependencies.dependency.version' for com.h2database:h2:jar is missing. @ line 28, column 21
+[ERROR]     'dependencies.dependency.version' for org.springframework.boot:spring-boot-starter-test:jar is missing. @ line 33, column 21
+[ERROR]
+
+
+depois de corrigir o error do pom:
+
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.10.1:compile (default-compile) on project project-manager: Compilation failure   
+[ERROR] /C:/Users/gabri/OneDrive/Documentos/CEFET/0TCC/Sistemas/6_GerenciadorProjetos/Copilot/code/project-manager/src/main/java/com/projectmanager/services/ListService.java:[8,22] ';' expected
+[ERROR]
+[ERROR] -> [Help 1]

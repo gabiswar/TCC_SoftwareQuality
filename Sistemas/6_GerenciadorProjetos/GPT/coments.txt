@@ -1,0 +1,13 @@
+Menu múltiplo da hora!
+
+Não tratou direito problemas com data no momento de inserir o card
+
+Data de vencimento (YYYY-MM-DD): 12
+Exception in thread "main" java.time.format.DateTimeParseException: Text '12' could not be parsed at index 0
+        at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2052)
+        at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1954)
+        at java.base/java.time.LocalDate.parse(LocalDate.java:430)
+        at java.base/java.time.LocalDate.parse(LocalDate.java:415)
+        at Main.gerenciarCartoes(Main.java:173)
+        at Main.gerenciarListas(Main.java:138)
+        at Main.main(Main.java:69)

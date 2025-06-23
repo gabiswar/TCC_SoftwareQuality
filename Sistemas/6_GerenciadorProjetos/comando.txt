@@ -1,0 +1,14 @@
+Faça um gerenciador de projetos completo em java. Em que seja possível:
+- Permitir que os usuários criem novos quadros, dando nomes e descrições;
+- Permitir visualização de quadros;
+- Permitir atualização de quadros;
+- Permitir exclusão de quadros;
+- Permitir que os usuários criem novas listas em um quadro; 
+- Permitir visualização de todas as listas em um quadro;
+- Permitir atualização de listas;
+- Permitir exclusão de listas;
+- Permitir que os usuários criem novos cartões em uma lista, dando títulos, descrições e datas de vencimento.
+- Permitir visualização de todos os cartões de uma lista;
+- Permitir atualização de cartões;
+- Permitir exclusão de cartões;
+- Permitir mover cartões entre listas em um mesmo quadro;

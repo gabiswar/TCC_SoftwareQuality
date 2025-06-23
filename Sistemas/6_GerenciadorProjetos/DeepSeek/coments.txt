@@ -1,0 +1,21 @@
+Mostrou a estrutura:
+
+
+src/
+├── model/
+│   ├── Quadro.java
+│   ├── Lista.java
+│   ├── Cartao.java
+├── dao/
+│   ├── QuadroDAO.java
+│   ├── ListaDAO.java
+│   ├── CartaoDAO.java
+├── service/
+│   ├── QuadroService.java
+│   ├── ListaService.java
+│   ├── CartaoService.java
+├── Main.java
+
+
+tratou dataaa!!!
+MAIS TOP DE TODOS!! completinho e trata as exeções

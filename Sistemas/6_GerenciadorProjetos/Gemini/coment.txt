@@ -1,0 +1,12 @@
+Ficou faltando a classe Main, tive que mandar o comando:
+
+Faltou o código Main. Faça por favor!
+
+Ele criou, porém faltou os imports da classe Main, o que fez com que precisasse de mexer manualmente.
+
+Ai ao tentar rodar, pelas classes não terem o Gets e sets, apenas comentários:
+
+    // Getters e Setters para nome, descricao e listas
+
+
+O código não funcionou!
