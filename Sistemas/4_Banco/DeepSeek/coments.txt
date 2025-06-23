@@ -1,0 +1,4 @@
+Código nem compilou. Error:
+
+Exception in thread "main" java.lang.NoSuchMethodError: 'void SistemaBancario.iniciar()'
+        at Main.main(Main.java:477)

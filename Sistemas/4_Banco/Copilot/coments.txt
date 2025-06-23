@@ -1,0 +1,7 @@
+Funcionamento perfeito e sem erros;
+
+Uso de Classes Abstratas e Herança:
+
+Conta é uma classe abstrata que define os métodos comuns para ContaCorrente e ContaPoupanca.
+ContaCorrente permite saques, depósitos e transferências.
+ContaPoupanca permite saques, depósitos e simulação de rendimentos.

@@ -1,0 +1,11 @@
+Erro de execução quando: 
+
+o cpf tem apenas conta corrente e eu peço para simular o rendimento (apenas de conta poupança);
+
+Acontecendo em todos os lugares; 
+Erro acontece devido a um problema de código:
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+        The field Cliente.cpf is not visible
+
+        at Banco.buscarClientePorCPF(SistemaBancario.java:128)
+        at SistemaBancario.main(SistemaBancario.java:246)

@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Banco,cadastrarCliente/0,scanner,5
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Banco,cadastrarCliente/0,contas,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Banco,buscarContaPorNome/1[java.lang.String],contas,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Banco,realizarOperacoes/0,scanner,10
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Banco,main/1[java.lang.String[]],scanner,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Banco,buscarConta/0,scanner,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,ContaPoupanca,"ContaPoupanca/2[java.lang.String,double]",taxaJuros,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,ContaPoupanca,simularRendimentoMensal/0,taxaJuros,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Conta,getSaldo/0,saldo,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Conta,getCliente/0,cliente,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Conta,Conta/1[java.lang.String],cliente,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\4_Banco\Copilot\code\Banco.java,Conta,Conta/1[java.lang.String],saldo,1

@@ -1,0 +1,5 @@
+Gerou um código incompleto
+
+Gerou apenas um: Exemplo Simplificado de Classes (em alto nível):
+
+Ele criou apenas as interfaces

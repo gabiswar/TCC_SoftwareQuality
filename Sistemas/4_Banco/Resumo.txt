@@ -1,0 +1,5 @@
+Apenas Copilot conseguiu gerar o código completo e funcional.
+
+GPT erro de field (private mode)
+Gemini faltou modo de deposito
+DeepSeek nem rodou javac;

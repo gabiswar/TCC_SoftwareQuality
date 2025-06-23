@@ -1,0 +1,6 @@
+Faça um Sistema de Pedidos para Restaurante com Integração de Cozinha e Pagamento completo em java. Em que seja possível:
+	- Criar pedidos e visualizar pedidos;
+	- Atualizar Status de pedidos;
+	- Tenha integração com a cozinha, enviando o pedido para a cozinha, a cozinha possa comunicar o status e informar quando estiver pronto;
+	- Deve ser possível calcular o preço total de pedidos, e gerar o recibo de pagamentos;
+	- Seja possível cadastrar alimentos e o valor deles;
