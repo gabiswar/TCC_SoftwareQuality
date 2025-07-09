@@ -1,0 +1,3 @@
+Cola o arquivo "class.csv" gerado com o ck;
+
+roda o comando no terminal: node buildValues.js
