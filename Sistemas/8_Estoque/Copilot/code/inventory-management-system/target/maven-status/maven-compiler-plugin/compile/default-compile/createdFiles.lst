@@ -1,0 +1,7 @@
+com\example\inventory\repositories\WarehouseRepository.class
+com\example\inventory\services\WarehouseService.class
+com\example\inventory\controllers\WarehouseController.class
+com\example\inventory\models\Product.class
+com\example\inventory\services\ProductService.class
+com\example\inventory\models\Warehouse.class
+com\example\inventory\repositories\ProductRepository.class

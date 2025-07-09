@@ -1,0 +1,73 @@
+DESATUALIZADOOOO COPILOT TEM QUE COLOCAR 0 EM TUDO
+
+# Gráfico 1: Métricas Coesão
+metricas_coesao = ['lcom', 'tcc', 'lcc']
+dados_coesao = np.array([
+    [[71.4,0,28.6],[25,50,25],[25,0,75]], # GPT
+    [[66.7,0,33.3],[28.6,42.9,28.6],[14.3,14.3,71.4]],  # Deep
+    [[81.8,0,18.2],[22.2,22.2,55.6],[11.1,0,88.9]], # Copilot
+    [[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 2: Métricas Acoplamento
+metricas_acoplamento = ['cbo', 'fanin', 'fanout', 'rfc']
+dados_acoplamento = np.array([
+    [[100,0,0],[85.7,14.3,0],[100,0,0],[85.7,14.3,0]],   # GPT
+    [[100,0,0],[44.4,55.6,0],[88.9,11.1,0],[66.7,22.2,11.1]],   # Deep
+    [[100,0,0],[81.8,9.1,9.1],[100,0,0],[63.6,36.4,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 3: Métricas Tamanho 1
+metricas_tamanho1 = ['wmc', 'loc', 'totalMethodsQty', 'staticMethodsQty', 'publicMethodsQty', 'abstractMethodsQty', 'finalMethodsQty', 'synchronizedMethodsQty']
+dados_tamanho1 = np.array([
+    [[71.4,28.6,0],[71.4,28.6,0],[85.7,14.3,0],[100,0,0],[85.7,14.3,0],[100,0,0],[100,0,0],[100,0,0]],  # GPT
+    [[66.7,22.2,11.1],[66.7,22.2,11.1],[44.4,55.6,0],[88.9,0,11.1],[44.4,44.4,11.1],[100,0,0],[100,0,0],[100,0,0]],  # Deep
+    [[81.8,18.2,0],[90.9,9.1,0],[81.8,18.2,0],[100,0,0],[45.5,54.5,0],[100,0,0],[100,0,0],[100,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 4: Métricas Tamanho 2
+metricas_tamanho2 = ['totalFieldsQty', 'publicFieldsQty', 'finalFieldsQty', 'staticFieldsQty', 'synchronizedFieldsQty', 'anonymousClassesQty', 'innerClassesQty']
+dados_tamanho2 = np.array([
+    [[85.7,14.3,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0]], # GPT
+    [[55.6,44.4,0],[100,0,0],[100,0,0],[88.9,11.1,0],[100,0,0],[100,0,0],[100,0,0]],  # Deep
+    [[81.8,18.2,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0]],   # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 5: Métricas Tamanho 3
+metricas_tamanho3 = ['numbersQty', 'assignmentsQty', 'stringLiteralsQty', 'variablesQty', 'lambdasQty', 'uniqueWordsQty', 'logStatementsQty', 'modifiers']
+dados_tamanho3 = np.array([
+    [[71.4,14.3,14.3],[71.4,28.6,0],[57.1,28.6,14.3],[71.4,14.3,14.3],[100,0,0],[100,0,0],[100,0,0],[100,0,0]],  # GPT
+    [[77.8,0,22.2],[66.7,22.2,11.1],[55.6,22.2,22.2],[66.7,22.2,11.1],[100,0,0],[88.9,11.1,0],[100,0,0],[100,0,0]],  # Deep
+    [[63.6,36.4,0],[72.7,27.3,0],[54.5,45.5,0],[81.8,18.2,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]]# Gemini
+])
+
+# Gráfico 6: Métricas Tamanho 4
+metricas_tamanho4 = ['returnQty', 'loopQty', 'comparisonsQty', 'tryCatchQty ', 'parenthesizedExpsQty', 'mathOperationsQty', 'maxNestedBlocksQty']
+dados_tamanho4 = np.array([
+    [[85.7,14.3,0],[85.7,14.3,0],[85.7,14.3,0],[100,0,0],[100,0,0],[100,0,0],[85.7,0,14.3]],   # GPT
+    [[33.3,66.7,0],[88.9,11.1,0],[88.9,11.1,0],[100,0,0],[100,0,0],[88.9,0,11.1],[88.9,11.1,0]], # Deep
+    [[63.6,36.4,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[100,0,0],[90.9,9.1,0]], # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 7: Ocultação de informações
+metricas_ocultacao = ['privateMethodsQty', 'protectedMethodsQty', 'defaultMethodsQty', 'privateFieldsQty', 'protectedFieldsQty', 'defaultFieldsQty']
+dados_ocultacao = np.array([
+    [[100,0,0],[100,0,0],[100,0,0],[57.1,42.9,0],[100,0,0],[100,0,0]],   # GPT
+    [[88.9,0,11.1],[100,0,0],[100,0,0],[44.4,44.4,11.1],[100,0,0],[100,0,0]],   # Deep
+    [[100,0,0],[100,0,0],[90.9,9.1,0],[54.5,45.5,0],[100,0,0],[100,0,0]],   # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]], # Gemini
+])
+
+# Gráfico 8: Métricas Herança
+metricas_heranca = ['dit', 'noc', 'nosi']
+dados_heranca = np.array([
+    [[100,0,0],[100,0,0],[85.7,14.3,0]],  # GPT
+    [[100,0,0],[100,0,0],[88.9,0,11.1]],  # Deep
+    [[100,0,0],[100,0,0],[100,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0]]   # Gemini
+])

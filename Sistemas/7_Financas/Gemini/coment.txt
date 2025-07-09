@@ -1,0 +1,22 @@
+O ACENTO FEZ COM QUE DESSE ESSE ERRO:
+
+comando: javac *.java     
+
+ERROR:
+InterfaceUsuario.java:127: error: unmappable character (0x8D) for encoding windows-1252
+            System.out.println("├?ndice de receita inv├ílido.");
+                                 ^
+InterfaceUsuario.java:139: error: unmappable character (0x8D) for encoding windows-1252
+            System.out.println("├?ndice de despesa inv├ílido.");
+                                 ^
+InterfaceUsuario.java:148: error: unmappable character (0x8D) for encoding windows-1252
+            System.out.println("├?ndice de receita inv├ílido.");
+                                 ^
+InterfaceUsuario.java:157: error: unmappable character (0x8D) for encoding windows-1252
+            System.out.println("├?ndice de despesa inv├ílido.");
+                                 ^
+4 errors
+
+AI CORRIGINDO GERA ERRO DOS GETS:
+
+FALTOU GETS E SETS DE NOVO O QUE IMPOSSIBILITOU DE RODAR OS CÓDIGOS, VISTO QUE ELE TAVA USANDO UM GET NÃO IMPLEMENTADO

@@ -1,0 +1,9 @@
+Faça um sistema de finanças pessoais completo em java. Em que seja possível:
+	- Permitir que os usuários registrem suas receitas, incluindo informações como valor, data e categoria;
+	- Permitir que os usuários registrem suas despesas, incluindo informações como valor, data e categoria;
+	- Permitir que os usuários atualizem as informações de receitas e despesas registradas;
+	- Permitir que os usuários excluam receitas e despesas que não são mais necessárias;
+	- Permitir a visualização do salto atual do usuário;
+	- Permitir a visualização de despesas por categoria;
+	- Permitir a visualização de receitas por categoria;
+	- Permitir a geração de relatórios financeiros com informações detalhadas sobre receitas, despesas e saldo.

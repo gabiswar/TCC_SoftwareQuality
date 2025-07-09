@@ -1,0 +1,11 @@
+Faça um sistema de controle de estoque com múltiplos armazéns completo em java. Em que seja possível:
+ - Criar Armazém: Permitir que os usuários criem novos armazéns, dando nomes e localizações.
+ - Visualizar Armazéns: Permitir que os usuários visualizem todos os armazéns disponíveis.
+ - Atualizar Armazém: Permitir que os usuários atualizem as informações de um armazém existente.
+ - Excluir Armazém: Permitir que os usuários excluam armazéns que não são mais necessários.
+ - Registrar Produto: Permitir que os usuários registrem novos produtos, incluindo informações como nome, descrição, preço e quantidade em estoque.
+ - Atualizar Produto: Permitir que os usuários atualizem as informações de um produto existente.
+ - Excluir Produto: Permitir que os usuários excluam produtos que não são mais necessários.
+ - Entrada de Produtos: Permitir que os usuários registrem entradas de produtos em um armazém específico, incluindo informações como quantidade e data.
+ - Saída de Produtos: Permitir que os usuários registrem saídas de produtos de um armazém específico, incluindo informações como quantidade e data.
+ - Transferência de Produtos: Permitir que os usuários transfiram produtos entre armazéns, incluindo informações como quantidade e data.

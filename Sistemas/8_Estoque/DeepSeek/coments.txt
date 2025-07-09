@@ -1,0 +1,16 @@
+Comando inesperados não soube tratar resto funcionou
+src/
+├── model/
+│   ├── Armazem.java
+│   ├── Produto.java
+│   ├── Movimentacao.java
+│   └── TipoMovimentacao.java
+├── dao/
+│   ├── ArmazemDAO.java
+│   ├── ProdutoDAO.java
+│   └── MovimentacaoDAO.java
+├── service/
+│   ├── ArmazemService.java
+│   ├── ProdutoService.java
+│   └── EstoqueService.java
+└── Main.java

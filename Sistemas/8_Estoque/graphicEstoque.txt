@@ -1,0 +1,71 @@
+# Gráfico 1: Métricas Coesão
+metricas_coesao = ['lcom', 'tcc', 'lcc']
+dados_coesao = np.array([
+    [[80,0,20],[50,25,25],[25,25,50]], # GPT
+    [[81.8,0,18.2],[20,20,60],[10,0,90]],  # Deep
+    [[0,0,0],[0,0,0],[0,0,0]], # Copilot
+    [[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 2: Métricas Acoplamento
+metricas_acoplamento = ['cbo', 'fanin', 'fanout', 'rfc']
+dados_acoplamento = np.array([
+    [[100,0,0],[80,20,0],[100,0,0],[80,0,20]],   # GPT
+     [[100,0,0],[54.5,45.5,0],[90.9,9.1,0],[81.8,9.1,9.1]],   # Deep
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 3: Métricas Tamanho 1
+metricas_tamanho1 = ['wmc', 'loc', 'totalMethodsQty', 'staticMethodsQty', 'publicMethodsQty', 'abstractMethodsQty', 'finalMethodsQty', 'synchronizedMethodsQty']
+dados_tamanho1 = np.array([
+    [[60,20,20],[60,20,20],[40,40,20],[80,20,0],[60,20,20],[100,0,0],[100,0,0],[100,0,0]],  # GPT
+    [[36.4,54.5,9.1],[63.6,27.3,9.1],[36.4,45.5,18.2],[90.9,0,9.1],[27.3,54.5,18.2],[100,0,0],[100,0,0],[100,0,0]],  # Deep
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 4: Métricas Tamanho 2
+metricas_tamanho2 = ['totalFieldsQty', 'publicFieldsQty', 'finalFieldsQty', 'staticFieldsQty', 'synchronizedFieldsQty', 'anonymousClassesQty', 'innerClassesQty']
+dados_tamanho2 = np.array([
+    [[20,40,40],[100,0,0],[100,0,0],[80,20,0],[100,0,0],[100,0,0],[100,0,0]], # GPT
+    [[54.5,27.3,18.2],[100,0,0],[100,0,0],[90.9,0,9.1],[100,0,0],[100,0,0],[100,0,0]],  # Deep
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]],   # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 5: Métricas Tamanho 3
+metricas_tamanho3 = ['numbersQty', 'assignmentsQty', 'stringLiteralsQty', 'variablesQty', 'lambdasQty', 'uniqueWordsQty', 'logStatementsQty', 'modifiers']
+dados_tamanho3 = np.array([
+    [[60,20,20],[20,60,20],[40,40,20],[40,40,20],[80,0,20],[80,20,0],[100,0,0],[100,0,0]],  # GPT
+    [[63.6,27.3,9.1],[54.5,36.4,9.1],[63.6,27.3,9.1],[72.7,18.2,9.1],[100,0,0],[90.9,9.1,0],[100,0,0],[100,0,0]],  # Deep
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 6: Métricas Tamanho 4
+metricas_tamanho4 = ['returnQty', 'loopQty', 'comparisonsQty', 'tryCatchQty ', 'parenthesizedExpsQty', 'mathOperationsQty', 'maxNestedBlocksQty']
+dados_tamanho4 = np.array([
+    [[60,40,0],[80,20,0],[80,20,0],[100,0,0],[100,0,0],[100,0,0],[80,20,0]],   # GPT
+    [[27.3,72.7,0],[90.9,9.1,0],[90.9,9.1,0],[100,0,0],[100,0,0],[100,0,0],[54.5,36.4,9.1]], # Deep
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]], # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]] # Gemini
+])
+
+# Gráfico 7: Ocultação de informações
+metricas_ocultacao = ['privateMethodsQty', 'protectedMethodsQty', 'defaultMethodsQty', 'privateFieldsQty', 'protectedFieldsQty', 'defaultFieldsQty']
+dados_ocultacao = np.array([
+    [[80,20,0],[100,0,0],[100,0,0],[20,40,40],[100,0,0],[100,0,0]],  # GPT
+    [[90.9,0,9.1],[100,0,0],[100,0,0],[27.3,54.5,18.2],[100,0,0],[100,0,0]],   # Deep
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]],   # Copilot
+    [[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0],[0,0,0]], # Gemini
+])
+
+# Gráfico 8: Métricas Herança
+metricas_heranca = ['dit', 'noc', 'nosi']
+dados_heranca = np.array([
+    [[100,0,0],[100,0,0],[80,0,20]],  # GPT
+    [[100,0,0],[100,0,0],[90.9,0,9.1]],  # Deep
+    [[0,0,0],[0,0,0],[0,0,0]],  # Copilot
+    [[0,0,0],[0,0,0],[0,0,0]]   # Gemini
+])

@@ -1,0 +1,5 @@
+Faça um sistema de gerenciamento de estacionamento completo em java. Em que seja possível:
+    - Estacionar um veículo;
+    - Remover veículo estacionado;
+    - Verificar a quantidade de vagas disponíveis;
+    - Cadastrar a quantidade de vagas;

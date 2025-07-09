@@ -1,0 +1,20 @@
+Rodei e deu erro no pom, estava faltando específicar uma versão
+
+<version>2.2.224</version>
+
+tentei rodar e deu erro de compilação
+
+ Compilation failure: Compilation failure:
+[ERROR] /C:/Users/gabri/OneDrive/Documentos/CEFET/0TCC/Sistemas/7_Financas/Copilot/code/personal-finance-system/src/main/java/com/finance/App.java:[6,26] cannot find symbol
+[ERROR]   symbol:   class FinanceService
+[ERROR]   location: class com.finance.App
+[ERROR] /C:/Users/gabri/OneDrive/Documentos/CEFET/0TCC/Sistemas/7_Financas/Copilot/code/personal-finance-system/src/main/java/com/finance/App.java:[6,62] cannot find symbol
+[ERROR]   symbol:   class FinanceService
+[ERROR]   location: class com.finance.App
+[ERROR] /C:/Users/gabri/OneDrive/Documentos/CEFET/0TCC/Sistemas/7_Financas/Copilot/code/personal-finance-system/src/main/java/com/finance/service/FinanceService.java:[59,38] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: class java.lang.String
+[ERROR] /C:/Users/gabri/OneDrive/Documentos/CEFET/0TCC/Sistemas/7_Financas/Copilot/code/personal-finance-system/src/main/java/com/finance/service/FinanceService.java:[69,37] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: class java.lang.String
+[ERROR] -> [Help 1]

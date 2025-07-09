@@ -1,0 +1,16 @@
+faltou um método, o que fez com que não conseguisse rodar
+FinancasPessoais/
+├── src/
+│   ├── model/
+│   │   ├── Categoria.java
+│   │   ├── Transacao.java
+│   │   ├── Receita.java
+│   │   ├── Despesa.java
+│   │   └── Usuario.java
+│   ├── dao/
+│   │   ├── TransacaoDAO.java
+│   │   └── CategoriaDAO.java
+│   ├── service/
+│   │   ├── FinancasService.java
+│   │   └── RelatorioService.java
+│   └── Main.java

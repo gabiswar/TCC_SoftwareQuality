@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,Estacionamento/1[int],totalVagas,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,removerVeiculo/1[java.lang.String],placa,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,estacionarVeiculo/1[java.lang.String],placa,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,setTotalVagas/1[int],totalVagas,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Veiculo.java,Veiculo,setPlaca/1[java.lang.String],placa,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Veiculo.java,Veiculo,Veiculo/1[java.lang.String],placa,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Main.java,Main,main/1[java.lang.String[]],args,0
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Main.java,Main,main/1[java.lang.String[]],estacionamento,4
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Main.java,Main,main/1[java.lang.String[]],opcao,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Main.java,Main,main/1[java.lang.String[]],totalVagas,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Main.java,Main,main/1[java.lang.String[]],scanner,7
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Main.java,Main,main/1[java.lang.String[]],placa,3

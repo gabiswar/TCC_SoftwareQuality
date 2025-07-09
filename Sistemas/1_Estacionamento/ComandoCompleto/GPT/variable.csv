@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Estacionamento.java,Estacionamento,Estacionamento/1[int],totalVagas,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Estacionamento.java,Estacionamento,removerVeiculo/1[java.lang.String],v,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Estacionamento.java,Estacionamento,removerVeiculo/1[java.lang.String],placa,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Estacionamento.java,Estacionamento,setTotalVagas/1[int],totalVagas,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Estacionamento.java,Estacionamento,listarVeiculos/0,v,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Estacionamento.java,Estacionamento,estacionarVeiculo/1[Veiculo],veiculo,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Veiculo.java,Veiculo,Veiculo/1[java.lang.String],placa,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],args,0
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],estacionamento,5
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],opcao,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],veiculo,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],vagas,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],placaRemover,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],scanner,6
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\SistemaEstacionamento\ComandoCompleto\GPT\code\Main.java,Main,main/1[java.lang.String[]],placa,1

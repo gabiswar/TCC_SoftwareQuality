@@ -1,0 +1,7 @@
+Faltou os imports, tive que fazer isso para tentar rodar!
+
+Não tratou numero, o resto funcionou
+Se eu tendo add 11.99 da erro e quebra o código
+Data também não foi tratada e se colocar no formato errado quebra o código
+
+Categoria também ta quebrando se eu colocar alguma que não está no enum

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vscode/wasm-component-model": "^1.0.1"
+  }
+}

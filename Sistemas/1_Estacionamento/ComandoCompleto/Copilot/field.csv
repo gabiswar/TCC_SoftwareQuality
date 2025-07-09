@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,Estacionamento/1[int],totalVagas,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,Estacionamento/1[int],veiculosEstacionados,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,removerVeiculo/1[java.lang.String],veiculosEstacionados,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,estacionarVeiculo/1[java.lang.String],totalVagas,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,estacionarVeiculo/1[java.lang.String],veiculosEstacionados,2
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,vagasDisponiveis/0,totalVagas,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,vagasDisponiveis/0,veiculosEstacionados,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,getTotalVagas/0,totalVagas,1
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Estacionamento.java,Estacionamento,setTotalVagas/1[int],totalVagas,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Veiculo.java,Veiculo,setPlaca/1[java.lang.String],placa,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Veiculo.java,Veiculo,Veiculo/1[java.lang.String],placa,3
+C:\Users\gabri\OneDrive\Documentos\CEFET\0TCC\Sistemas\1_Estacionamento\ComandoCompleto\Copilot\code\src\Veiculo.java,Veiculo,getPlaca/0,placa,1

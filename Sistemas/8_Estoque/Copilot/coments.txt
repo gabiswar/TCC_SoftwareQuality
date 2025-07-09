@@ -1,0 +1,6 @@
+Erro de compilação novamenteee
+
+Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.10.1:compile (default-compile) on project inventory-management-system: Compilation failure: Compilation failure:
+[ERROR] /C:/Users/gabri/OneDrive/Documentos/CEFET/0TCC/Sistemas/8_Estoque/Copilot/code/inventory-management-system/src/main/java/com/example/inventory/utils/TransferUtils.java:[11,28] cannot find symbol
+[ERROR]   symbol:   method getProducts()
+[ERROR]   location: variable sourceWarehouse of type com.example.inventory.models.Warehouse
