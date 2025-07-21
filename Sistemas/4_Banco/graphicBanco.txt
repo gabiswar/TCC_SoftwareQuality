@@ -3,8 +3,8 @@ metricas_coesao = ['lcom', 'tcc', 'lcc']
 dados_coesao = np.array([
     [[0,0,0],[0,0,0],[0,0,0]],   # GPT
     [[0,0,0],[0,0,0],[0,0,0]],  # Deep
-    [[0,0,100],[100,0,0],[100,0,0]], # Copilot
-    [[80,0,20],[20,80,0],[20,60,20]]    # Gemini
+    [[0,0,100],[0,0,100],[0,0,100]], # Copilot
+    [[80,0,20],[0,80,20],[20,60,20]]    # Gemini
 ])
 
 # Gráfico 2: Métricas Acoplamento

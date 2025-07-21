@@ -1,5 +1,5 @@
 metricas_coesao = ["lcom","tcc","lcc"]
-dados_coesao = [[60,0,40],[20,80,0],[40,0,60]]
+dados_coesao = [[60,0,40],[0,80,20],[60,0,40]]
 
 metricas_acoplamento = ["cbo","fanin","fanout","rfc"]
 dados_acoplamento = [[100,0,0],[60,40,0],[100,0,0],[80,20,0]]
